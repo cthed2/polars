@@ -50,6 +50,19 @@ En este repositorio encontrarás ejemplos de código, tutoriales y documentació
       source polars/bin/activate
       ```
 
+## Instalación de quarto en ambiente virtual
+
+Puedes instalar quarto en tu máquina
+Link de instalación: https://quarto.org/docs/get-started/
+
+Para conda puedes hacer: 
+
+```shell
+ conda install conda-forge::r-quarto 
+```
+
+Documentación de quarto para VSCode: https://quarto.org/docs/get-started/hello/vscode.html
+
 ## Instalación de Polars en el ambiente virtual
 
 Una vez que hayas activado tu ambiente virtual, puedes instalar Polars utilizando el siguiente comando:
