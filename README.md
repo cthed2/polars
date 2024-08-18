@@ -92,3 +92,17 @@ Si deseas instalar los paquetes especificados en un archivo `requirements.txt`, 
     ```shell
     pip install -r requirements.txt
     ```
+
+
+# Para redenrizar *.qmd
+Para renderizar archivos .qmd en la terminal, puedes utilizar el siguiente comando:
+
+```shell
+quarto render <nombre_archivo>.qmd
+```
+
+Asegúrate de reemplazar `<nombre_archivo>` con el nombre del archivo .qmd que deseas renderizar.
+
+Recuerda que debes tener instalado Quarto en tu ambiente virtual antes de ejecutar este comando.
+
+¡Espero que esto te sea útil! Si tienes alguna otra pregunta, no dudes en preguntar.
