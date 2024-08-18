@@ -52,14 +52,14 @@ En este repositorio encontrarás ejemplos de código, tutoriales y documentació
 
 ## Instalación de Polars en el ambiente virtual
 
-    Una vez que hayas activado tu ambiente virtual, puedes instalar Polars utilizando el siguiente comando:
+Una vez que hayas activado tu ambiente virtual, puedes instalar Polars utilizando el siguiente comando:
 
-    ```shell
-    pip install polars
-    ```
+```shell
+pip install polars
+```
 
-    Este comando instalará la última versión estable de Polars en tu ambiente virtual. Una vez completada la instalación, estarás listo para comenzar a utilizar Polars en tus proyectos de análisis y procesamiento de datos.
+Este comando instalará la última versión estable de Polars en tu ambiente virtual. Una vez completada la instalación, estarás listo para comenzar a utilizar Polars en tus proyectos de análisis y procesamiento de datos.
 
-    Recuerda que si estás utilizando Conda, debes asegurarte de haber activado el ambiente virtual antes de ejecutar el comando de instalación.
+Recuerda que si estás utilizando Conda, debes asegurarte de haber activado el ambiente virtual antes de ejecutar el comando de instalación.
 
-    ¡Disfruta explorando las funcionalidades de Polars en tu ambiente virtual!
+¡Disfruta explorando las funcionalidades de Polars en tu ambiente virtual!
