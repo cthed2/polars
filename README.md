@@ -76,3 +76,19 @@ Este comando instalará la última versión estable de Polars en tu ambiente vir
 Recuerda que si estás utilizando Conda, debes asegurarte de haber activado el ambiente virtual antes de ejecutar el comando de instalación.
 
 ¡Disfruta explorando las funcionalidades de Polars en tu ambiente virtual!
+
+## Instalación de paquetes con requirements
+
+Si deseas instalar los paquetes especificados en un archivo `requirements.txt`, puedes seguir los siguientes pasos:
+
+1. Asegúrate de haber activado tu ambiente virtual con Conda o venv, como se menciona en los pasos anteriores.
+
+2. Abre una terminal o línea de comandos.
+
+3. Navega hasta la ubicación del proyecto utilizando el comando `cd`.
+
+4. Ejecuta el siguiente comando para instalar los paquetes:
+
+    ```shell
+    pip install -r requirements.txt
+    ```
