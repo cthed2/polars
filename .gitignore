@@ -162,6 +162,13 @@ cython_debug/
 *_files/
 data/
 
+# ignorar ambiente virtual
+polars/
+# ignorar archivo prueba
+test.ipynb
+
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
